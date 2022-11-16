@@ -10,5 +10,6 @@ public class ForLoop {
 
         } while (num != 66);
         System.out.println("Правильно");
+        System.out.println();
     }
 }
