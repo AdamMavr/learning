@@ -20,13 +20,9 @@ public class Arrays_of_Strings {
 
         int[] nums = {1, 2, 3, 4, 5};
         int sum = 0;
-        for (int number: nums) {
-            sum += number;
+        for (int x: nums) {
+            sum += x;
         }
         System.out.println(sum);
-
-        int value = 0;
-        String word;
-
     }
 }
