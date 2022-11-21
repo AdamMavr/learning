@@ -16,7 +16,6 @@ class Person {
         name = username;
         age = userage;
     }
-
     public String getName() {
         return name;
     }
