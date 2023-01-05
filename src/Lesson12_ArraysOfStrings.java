@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Arrays_of_Strings {
+public class Lesson12_ArraysOfStrings {
     public static void main(String[] args) {
         int[] numbers = new int[10];
         numbers[0] = 10;

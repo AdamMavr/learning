@@ -7,7 +7,7 @@
 и нельзя получить доступ к другим методам не пройдя через main, то есть все другие методы вызываются в теле метода main.
 */
 
-public class HelloWorld {
+public class Lesson1_HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello World");
     }

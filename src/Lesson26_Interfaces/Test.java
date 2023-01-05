@@ -1,4 +1,4 @@
-package Interfaces;
+package Lesson26_Interfaces;
 
 public class Test {
     public static void main(String[] args) {

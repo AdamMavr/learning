@@ -3,7 +3,7 @@
 // printf/format: %s - String, %d - int; %f - float/double. между % и d можно вставить число которое будет обозначать количество символов между ними. может быть отрицательным
 // также можно определять количество символов после запятой таким образом: %.2f, где 2 это количество символов после запятой
 
-public class MoreInfoAboutStrings {
+public class Lesson23_MoreInfoAboutStrings {
     public static void main(String[] args) {
         StringBuilder x = new StringBuilder("hello");
         x.append(" GROBA").append(" HABRGA");

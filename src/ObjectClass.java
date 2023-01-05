@@ -3,4 +3,5 @@ public class ObjectClass {
         String word = "Hello";
         System.out.println(word);
     }
+
 }

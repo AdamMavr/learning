@@ -6,7 +6,7 @@
 а ссылочный ссылается на объект класса
 */
 
-public class Strings {
+public class Lesson3_Strings {
     public static void main(String[] args) {
         String hi = "Hello";
         String space = " ";

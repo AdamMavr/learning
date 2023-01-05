@@ -17,7 +17,7 @@
 // по умолчанию для кажого объекта применяется метод toString() класса Objects, и он возвращает хэш код  для созданного объекта.
 // метод toString можно переопределить внутри класса
 
-public class ThisWord {
+public class Lesson19_ThisWord {
     public static void main(String[] args) {
         Human h1 = new Human("Adam", 24);
         Human h2 = new Human("Vella", 27);

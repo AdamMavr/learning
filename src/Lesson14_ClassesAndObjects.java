@@ -1,5 +1,5 @@
 // публичный класс это главный класс, и он может быть только один. но может быть несколько обычных классов. класс это тип данных который мы создаём сами.
-public class ClassesAndObjects {
+public class Lesson14_ClassesAndObjects {
     public static void main (String[] args) {
         Person firstPerson = new Person();
         firstPerson.setMainInfo("Адам", 24);

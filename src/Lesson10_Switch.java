@@ -1,6 +1,6 @@
  import java.util.Scanner;
 
-public class Switch {
+public class Lesson10_Switch {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Сколько лет");

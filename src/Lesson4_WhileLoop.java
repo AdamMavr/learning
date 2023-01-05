@@ -1,4 +1,4 @@
-public class WhileLoop {
+public class Lesson4_WhileLoop {
     public static void main(String[] args) {
         int value = 0;
         while (value <= 5){

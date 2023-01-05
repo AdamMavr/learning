@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DoWhile {
+public class Lesson8_DoWhile {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int value;

@@ -1,4 +1,4 @@
-public class If {
+public class Lesson6_If {
     public static void main(String[] args) {
         int age = 24;
         if (age < 18) {

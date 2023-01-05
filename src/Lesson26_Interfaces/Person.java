@@ -1,4 +1,4 @@
-package Interfaces;
+package Lesson26_Interfaces;
 
 public class Person implements Info {
     public String name;
@@ -11,7 +11,7 @@ public class Person implements Info {
         System.out.println("Hello");
     }
 
-    public void showInfo() {
+    public void showInfo()  {
         System.out.println("Name is: " + name);
     }
 }

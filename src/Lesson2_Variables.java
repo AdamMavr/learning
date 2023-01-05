@@ -1,7 +1,7 @@
 // Примитивные типы данных
 // Наименования примитивных типов данных начинаются с маленькой буквы
 
-public class Variables {
+public class Lesson2_Variables {
     public static void main(String[] args) {
         byte myByte = 123;//от -128 до 128, 8 бит
         short myShort = 31876; //числа от -32000 до 32000, 16 бит
